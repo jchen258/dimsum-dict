@@ -1,0 +1,30 @@
+[
+  {
+    "name": {
+      "english": "Shrimp Har Gow",
+      "chinese": "蝦餃",
+      "pinyin": "Xiā Jiǎo"
+    },
+    "category": "Steamed",
+    "description": "Delicate dumplings filled with succulent shrimp, wrapped in a translucent rice dough.",
+    "ingredients": ["Shrimp", "Wheat starch", "Tapioca starch", "Sesame oil", "Salt"],
+    "preparation": "Steamed",
+    "pronunciation": "har gow",
+    "image_url": "https://example.com/har_gow.jpg",
+    "notes": "Traditional Cantonese dim sum; wrapper should be slightly chewy and translucent."
+  },
+  {
+    "name": {
+      "english": "Pork Siu Mai",
+      "chinese": "燒賣",
+      "pinyin": "Shāo Mài"
+    },
+    "category": "Steamed",
+    "description": "Open-top dumplings with a pork and shrimp filling, often topped with roe.",
+    "ingredients": ["Pork", "Shrimp", "Wonton wrappers", "Soy sauce", "Ginger"],
+    "preparation": "Steamed",
+    "pronunciation": "siu mai",
+    "image_url": "https://media.istockphoto.com/id/2186602693/photo/siu-mai.jpg?s=612x612&w=0&k=20&c=k28bk4jpDv3bNc04koXUPMTke1UoCJT1Es34Sa5yyGw=",
+    "notes": "Often served with a small garnish on top."
+  }
+]
